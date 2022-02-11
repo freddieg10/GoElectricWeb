@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Go Electric</title>
+    </head>
+  <body>
+    <!-- Styles -->
+    <link
+      href="./plugins/bootstrap-5.0.2-dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="index.css"
+      rel="stylesheet"
+    />
+    <link
+      href="variables.css"
+      rel="stylesheet"
+    />
+    <!-- Scripts -->
+    <script
+      src="./plugins/bootstrap-5.0.2-dist/js/bootstrap.bundle.js"
+      type="text/javascript"
+    ></script>
+    <script
+      src="./plugins/jquery/jquery-3.6.0.min.js"
+      type="text/javascript"
+    ></script>
+    <!-- Header -->
+    <script>
+        $(function(){
+            $("#header").load("./components/header/header.html"); 
+        });
+    </script>
+    <div id="header"></div>
+    <!-- Main content routing -->
+    <script>
+        $(function(){
+            const location = window.location.pathname;
+            switch (location.toLowerCase()) {
+                default:
+                    $("#content").load("./views/404/notFound.html"); 
+                    break;
+                
+                case "/":
+                case "/index.html":
+                case "/index":
+                    $("#content").load("./views/home/home.html"); 
+                    break;
+            }
+        });
+    </script>
+    <div id="content"></div>
+    <!-- Footer -->
+    <script>
+        $(function(){
+            $("#footer").load("./components/footer/footer.html"); 
+        });
+    </script>
+    <div id="footer"></div>
+  </body>
+</html>

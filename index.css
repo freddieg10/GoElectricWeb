@@ -1,0 +1,19 @@
+/* subtract header and footer height */
+/* 
+ Footer: 56px
+ Header: 204px / 72px
+*/
+
+body {
+    font-family: 'Open Sans' !important;
+}
+
+#content {
+    min-height: calc(100vh - 260px); 
+}
+
+@media screen and (min-width: 991px) {
+    #content {
+        min-height: calc(100vh - 128px); 
+    }
+  }

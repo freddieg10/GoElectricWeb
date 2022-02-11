@@ -1,0 +1,6 @@
+header.header {
+    position: fixed;
+    min-width: 100%;
+    background-color: black;
+    opacity: 0.7;
+}
