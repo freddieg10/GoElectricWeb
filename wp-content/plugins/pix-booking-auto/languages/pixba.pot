@@ -1,0 +1,405 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Auto Booking\n"
+"POT-Creation-Date: 2020-10-20 23:04+0600\n"
+"PO-Revision-Date: 2019-11-09 15:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pix-booking-auto.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/widget/widget_search_by_radius.php:16
+msgid "Booking Auto: By Location"
+msgstr ""
+
+#: inc/widget/widget_search_by_radius.php:16
+msgid "Filter autos by make."
+msgstr ""
+
+#: inc/widget/widget_search_by_radius.php:104
+msgid "Find By Radius"
+msgstr ""
+
+#: inc/widget/widget_search_by_radius.php:110
+msgid "Title for Radius:"
+msgstr ""
+
+#: inc/widget/widget_search_by_radius.php:115
+msgid "Min Radius (km):"
+msgstr ""
+
+#: inc/widget/widget_search_by_radius.php:120
+msgid "Max Radius (km):"
+msgstr ""
+
+#: pix-booking-auto.php:109
+msgid "Auto name"
+msgstr ""
+
+#: pix-booking-auto.php:110
+msgid "Auto id"
+msgstr ""
+
+#: pix-booking-auto.php:111 pix-booking-auto.php:2800
+msgid "Start time"
+msgstr ""
+
+#: pix-booking-auto.php:112 pix-booking-auto.php:2803
+msgid "Finish time"
+msgstr ""
+
+#: pix-booking-auto.php:113
+msgid "Start location"
+msgstr ""
+
+#: pix-booking-auto.php:115
+msgid "Finish location"
+msgstr ""
+
+#: pix-booking-auto.php:121
+msgid "Total"
+msgstr ""
+
+#: pix-booking-auto.php:122
+msgid "Day"
+msgstr ""
+
+#: pix-booking-auto.php:125
+msgid "Add new field"
+msgstr ""
+
+#: pix-booking-auto.php:126
+msgid "Slug"
+msgstr ""
+
+#: pix-booking-auto.php:127
+msgid "Name"
+msgstr ""
+
+#: pix-booking-auto.php:128
+msgid "Description"
+msgstr ""
+
+#: pix-booking-auto.php:129
+msgid "Option"
+msgstr ""
+
+#: pix-booking-auto.php:130
+msgid "Price"
+msgstr ""
+
+#: pix-booking-auto.php:138
+msgid "Booking auto"
+msgstr ""
+
+#: pix-booking-auto.php:139
+msgid "Product for making a car reservation"
+msgstr ""
+
+#: pix-booking-auto.php:140
+msgid "Extra Resource"
+msgstr ""
+
+#: pix-booking-auto.php:141
+msgid "Location settings"
+msgstr ""
+
+#: pix-booking-auto.php:142
+msgid "Add location"
+msgstr ""
+
+#: pix-booking-auto.php:143
+msgid "Custom fields settings"
+msgstr ""
+
+#: pix-booking-auto.php:144
+msgid "Select properties"
+msgstr ""
+
+#: pix-booking-auto.php:145
+msgid "Save location"
+msgstr ""
+
+#: pix-booking-auto.php:146
+msgid "Add field"
+msgstr ""
+
+#: pix-booking-auto.php:147
+msgid "Booking Form"
+msgstr ""
+
+#: pix-booking-auto.php:148
+msgid "Pick-up Location"
+msgstr ""
+
+#: pix-booking-auto.php:149
+msgid "Drop-off Location"
+msgstr ""
+
+#: pix-booking-auto.php:150
+msgid "Location"
+msgstr ""
+
+#: pix-booking-auto.php:151
+msgid "Pick-up Date"
+msgstr ""
+
+#: pix-booking-auto.php:152
+msgid "Drop-off Date"
+msgstr ""
+
+#: pix-booking-auto.php:153
+msgid "Date is incorrect"
+msgstr ""
+
+#: pix-booking-auto.php:154
+msgid "Date to be booked, select another date."
+msgstr ""
+
+#: pix-booking-auto.php:155
+msgid "Location is incorrect"
+msgstr ""
+
+#: pix-booking-auto.php:156
+msgid "A key with this name is already in use."
+msgstr ""
+
+#: pix-booking-auto.php:157
+msgid "No key"
+msgstr ""
+
+#: pix-booking-auto.php:158
+msgid "Booking"
+msgstr ""
+
+#: pix-booking-auto.php:159
+msgid "Sunday"
+msgstr ""
+
+#: pix-booking-auto.php:160
+msgid "Monday"
+msgstr ""
+
+#: pix-booking-auto.php:161
+msgid "Tuesday"
+msgstr ""
+
+#: pix-booking-auto.php:162
+msgid "Wednesday"
+msgstr ""
+
+#: pix-booking-auto.php:163
+msgid "Thursday"
+msgstr ""
+
+#: pix-booking-auto.php:164
+msgid "Friday"
+msgstr ""
+
+#: pix-booking-auto.php:165
+msgid "Saturday"
+msgstr ""
+
+#: pix-booking-auto.php:166
+msgid "Disabled Week Days"
+msgstr ""
+
+#: pix-booking-auto.php:167
+msgid "Working time"
+msgstr ""
+
+#: pix-booking-auto.php:168
+msgid "Booking Style"
+msgstr ""
+
+#: pix-booking-auto.php:169
+msgid "Hide dates"
+msgstr ""
+
+#: pix-booking-auto.php:170
+msgid "Hide drop-off date"
+msgstr ""
+
+#: pix-booking-auto.php:171
+msgid "Hide locations"
+msgstr ""
+
+#: pix-booking-auto.php:172
+msgid "Hide timepicker"
+msgstr ""
+
+#: pix-booking-auto.php:173
+msgid "Date Format"
+msgstr ""
+
+#: pix-booking-auto.php:174
+msgid "Booking this car"
+msgstr ""
+
+#: pix-booking-auto.php:175
+msgid "Order button title"
+msgstr ""
+
+#: pix-booking-auto.php:176
+msgid "Order title"
+msgstr ""
+
+#: pix-booking-auto.php:177
+msgid "Available dates start after days"
+msgstr ""
+
+#: pix-booking-auto.php:178
+msgid "X"
+msgstr ""
+
+#: pix-booking-auto.php:179
+msgid "Сreate discount for cars"
+msgstr ""
+
+#: pix-booking-auto.php:180
+msgid "Enable discounts"
+msgstr ""
+
+#: pix-booking-auto.php:181
+msgid "Apply discount for all days"
+msgstr ""
+
+#: pix-booking-auto.php:182
+msgid "Show information about discounts"
+msgstr ""
+
+#: pix-booking-auto.php:183
+msgid "Start of discount"
+msgstr ""
+
+#: pix-booking-auto.php:184
+msgid "End of discounts"
+msgstr ""
+
+#: pix-booking-auto.php:185
+msgid "Discount percentage"
+msgstr ""
+
+#: pix-booking-auto.php:186
+msgid "Discount start on this day"
+msgstr ""
+
+#: pix-booking-auto.php:187
+msgid "Description of discount"
+msgstr ""
+
+#: pix-booking-auto.php:188
+msgid "Add discount"
+msgstr ""
+
+#: pix-booking-auto.php:189
+msgid "Save"
+msgstr ""
+
+#: pix-booking-auto.php:190
+msgid "Box custom price"
+msgstr ""
+
+#: pix-booking-auto.php:191
+msgid "Custom price in catalog"
+msgstr ""
+
+#: pix-booking-auto.php:192
+msgid "Custom price in car page"
+msgstr ""
+
+#: pix-booking-auto.php:193
+#, php-format
+msgid "You save %s considering these days"
+msgstr ""
+
+#: pix-booking-auto.php:2150
+msgid " Day(s)"
+msgstr ""
+
+#: pix-booking-auto.php:2334 pix-booking-auto.php:2396
+#: pix-booking-auto.php:2458 pix-booking-auto.php:2477
+msgid "Select Location"
+msgstr ""
+
+#: pix-booking-auto.php:2511 pix-booking-auto.php:2517
+#: pix-booking-auto.php:2581 pix-booking-auto.php:2587
+msgid "Select date"
+msgstr ""
+
+#: pix-booking-auto.php:2613
+msgid "Booking calendar"
+msgstr ""
+
+#: pix-booking-auto.php:2623
+msgid "Reserved"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:548
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:550
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:552
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:558
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Auto Booking"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Booking for Car"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Templines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://templines.com/"
+msgstr ""

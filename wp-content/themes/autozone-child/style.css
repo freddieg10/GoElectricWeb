@@ -1,0 +1,14 @@
+/* ************************************************   
+Theme Name: autozone-child
+Author: Templines
+Version: 1.0
+Description: Auto Dealer template with E-commerce.
+Theme URI:  http://prestazilla.org/wordpress/autozone/
+Author URI: templines.com
+Template:   autozone
+License: GNU General Public License version 3.0 & Envato Regular/Extended License
+License URI:  http://www.gnu.org/licenses/gpl-3.0.html & http://themeforest.net/licenses
+Tags: left-sidebar, right-sidebar, custom-header, custom-menu, editor-style
+*/
+
+@import url("../autozone/style.css");

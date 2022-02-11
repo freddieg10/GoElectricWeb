@@ -1,0 +1,95 @@
+
+---Downloaded files---
+The import files for: Dealer Demo were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = https://rsweb.com.do/web/goelectric
+Data file = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-content-import-file_2021-07-15__05-27-04.xml
+Widget file = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-15__05-27-04.json
+Customizer file = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-customizer-import-file_2021-07-15__05-27-04.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+

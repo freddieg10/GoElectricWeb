@@ -1,0 +1,16 @@
+{ 
+"post_types": {
+"staticblocks": { 
+"post_title": {}, 
+"post_content": {}, 
+"post_excerpt": {} 
+},
+"pixad-autos": { 
+"post_title": {}, 
+"post_content": {}, 
+"post_excerpt": {} 
+}
+
+}
+
+}

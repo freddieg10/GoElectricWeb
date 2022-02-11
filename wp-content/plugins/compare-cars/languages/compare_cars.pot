@@ -1,0 +1,284 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Compare cars\n"
+"POT-Creation-Date: 2020-04-03 00:36+0300\n"
+"PO-Revision-Date: 2020-04-03 00:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: compare-cars.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: compare-cars.php:61
+msgid "You have already added 3 cars"
+msgstr ""
+
+#: compare-cars.php:62
+msgid " Added for comparison"
+msgstr ""
+
+#: compare-cars.php:63
+msgid " Removed from comparison"
+msgstr ""
+
+#: compare-cars.php:141
+msgid "Compare page"
+msgstr ""
+
+#: compare-cars.php:141
+msgctxt "menu"
+msgid "Compare page"
+msgstr ""
+
+#: compare-cars.php:165
+msgid "Compare settings"
+msgstr ""
+
+#: compare-cars.php:166
+msgid "Select compare page"
+msgstr ""
+
+#: compare-cars.php:167
+msgid "Not use favorite"
+msgstr ""
+
+#: compare-cars.php:168
+msgid "Hide Compare icon"
+msgstr ""
+
+#: compare-cars.php:169
+msgid "Resize"
+msgstr ""
+
+#: compare-cars.php:180
+msgid "Select page"
+msgstr ""
+
+#: compare-cars.php:240
+msgid "VIEW ALL CARS FOR COMPARE"
+msgstr ""
+
+#: compare-cars.php:304
+msgid "Add To Compare"
+msgstr ""
+
+#: compare-cars.php:309
+msgid "Remove From Compare"
+msgstr ""
+
+#: compare-cars.php:353 compare-cars.php:523
+msgid "Compare Page"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:548
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:550
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:552
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:558
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#: templates/compare-cars.php:115
+msgid "Stock status"
+msgstr ""
+
+#: templates/compare-cars.php:123
+msgid "Made Year"
+msgstr ""
+
+#: templates/compare-cars.php:131
+msgid "Mileage"
+msgstr ""
+
+#: templates/compare-cars.php:139
+msgid "VIN"
+msgstr ""
+
+#: templates/compare-cars.php:147
+msgid "Version"
+msgstr ""
+
+#: templates/compare-cars.php:155
+msgid "Fuel"
+msgstr ""
+
+#: templates/compare-cars.php:163
+msgid "Engine (cm3)"
+msgstr ""
+
+#: templates/compare-cars.php:171
+msgid "Horsepower (hp)"
+msgstr ""
+
+#: templates/compare-cars.php:179
+msgid "Transmission"
+msgstr ""
+
+#: templates/compare-cars.php:187
+msgid "Doors"
+msgstr ""
+
+#: templates/compare-cars.php:195
+msgid "Condition"
+msgstr ""
+
+#: templates/compare-cars.php:203
+msgid "Drive"
+msgstr ""
+
+#: templates/compare-cars.php:204
+msgid "drive"
+msgstr ""
+
+#: templates/compare-cars.php:211
+msgid "Seats"
+msgstr ""
+
+#: templates/compare-cars.php:219
+msgid "Color"
+msgstr ""
+
+#: templates/compare-cars.php:227
+msgid "Interior Color"
+msgstr ""
+
+#: templates/compare-cars.php:235
+msgid "Price Type"
+msgstr ""
+
+#: templates/compare-cars.php:243
+msgid "Warranty"
+msgstr ""
+
+#: templates/compare-cars.php:296
+msgid "Remove"
+msgstr ""
+
+#: templates/compare-cars.php:377
+msgid "Stock status:"
+msgstr ""
+
+#: templates/compare-cars.php:384
+msgid "Made Year:"
+msgstr ""
+
+#: templates/compare-cars.php:391
+msgid "Mileage:"
+msgstr ""
+
+#: templates/compare-cars.php:398
+msgid "VIN:"
+msgstr ""
+
+#: templates/compare-cars.php:405
+msgid "Version:"
+msgstr ""
+
+#: templates/compare-cars.php:412
+msgid "Fuel:"
+msgstr ""
+
+#: templates/compare-cars.php:419
+msgid "Engine (cm3):"
+msgstr ""
+
+#: templates/compare-cars.php:426
+msgid "Horsepower (hp):"
+msgstr ""
+
+#: templates/compare-cars.php:433
+msgid "Transmission:"
+msgstr ""
+
+#: templates/compare-cars.php:440
+msgid "Doors:"
+msgstr ""
+
+#: templates/compare-cars.php:447
+msgid "Condition:"
+msgstr ""
+
+#: templates/compare-cars.php:454
+msgid "Drive:"
+msgstr ""
+
+#: templates/compare-cars.php:461
+msgid "Seats:"
+msgstr ""
+
+#: templates/compare-cars.php:468
+msgid "Color:"
+msgstr ""
+
+#: templates/compare-cars.php:475
+msgid "Interior Color:"
+msgstr ""
+
+#: templates/compare-cars.php:482
+msgid "Price Type:"
+msgstr ""
+
+#: templates/compare-cars.php:489
+msgid "Warranty:"
+msgstr ""
+
+#: thumbmaker/class.Kama_Make_Thumb.php:336
+msgid ""
+"Folder where thumbs will be created not exists. Create it manually: \"s%\""
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Compare cars"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Compare functionality for Autozone"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Templines"
+msgstr ""

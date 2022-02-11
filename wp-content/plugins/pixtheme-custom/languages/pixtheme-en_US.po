@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: PixthemeCustom\n"
+"POT-Creation-Date: 2017-01-27 19:59+0300\n"
+"PO-Revision-Date: 2017-01-27 19:59+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pixtheme-custom.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: pixtheme-custom-widgets.php:18
+msgid "Pixtheme Static Block Widget"
+msgstr ""
+
+#: pixtheme-custom-widgets.php:20
+msgid "Displays your static block in widget"
+msgstr ""
+
+#: pixtheme-custom-widgets.php:56
+msgid "Title:"
+msgstr ""
+
+#: pixtheme-custom-widgets.php:61
+msgid "Static Block:"
+msgstr ""
+
+#: pixtheme-custom.php:45
+msgctxt "post type general name"
+msgid "Static Blocks"
+msgstr ""
+
+#: pixtheme-custom.php:46
+msgctxt "post type singular name"
+msgid "Static Block"
+msgstr ""
+
+#: pixtheme-custom.php:47
+msgctxt "admin menu"
+msgid "Static Blocks"
+msgstr ""
+
+#: pixtheme-custom.php:48
+msgctxt "add new on admin bar"
+msgid "Static Block"
+msgstr ""
+
+#: pixtheme-custom.php:49
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: pixtheme-custom.php:50
+msgid "Add New Block"
+msgstr ""
+
+#: pixtheme-custom.php:51
+msgid "New Block"
+msgstr ""
+
+#: pixtheme-custom.php:52
+msgid "Edit Block"
+msgstr ""
+
+#: pixtheme-custom.php:53
+msgid "View Block"
+msgstr ""
+
+#: pixtheme-custom.php:54
+msgid "All Blocks"
+msgstr ""
+
+#: pixtheme-custom.php:55
+msgid "Search Block"
+msgstr ""
+
+#: pixtheme-custom.php:56
+msgid "Parent Block:"
+msgstr ""
+
+#: pixtheme-custom.php:57
+msgid "No blocks found."
+msgstr ""
+
+#: pixtheme-custom.php:58
+msgid "No blocks found in Trash."
+msgstr ""
+
+#: pixtheme-custom.php:114
+msgid "Static Block Description"
+msgstr ""
+
+#: pixtheme-custom.php:118
+msgid "Select the block to display at the bottom of the product page"
+msgstr ""
+
+#: pixtheme-custom.php:307
+msgid "Theme Activation"
+msgstr ""
+
+#: pixtheme-custom.php:319
+msgid "Envato Licence Code"
+msgstr ""
+
+#: pixtheme-custom.php:333
+msgid "Your theme is not activated. Please go to Customize -> Theme Activation"
+msgstr ""
+
+#: pixtheme-custom.php:335
+msgid "Here"
+msgstr ""
+
+#: shortcode.php:6
+msgid "Share this"
+msgstr ""
+
+#: shortcode.php:30 shortcode.php:41 shortcode.php:51
+msgid "Facebook"
+msgstr ""
+
+#: shortcode.php:31 shortcode.php:42 shortcode.php:52
+msgid "Twitter"
+msgstr ""
+
+#: shortcode.php:32 shortcode.php:43 shortcode.php:53
+msgid "Google +"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PixthemeCustom"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://templines.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Additional functionality for PixTheme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PixTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://templines.com"
+msgstr ""

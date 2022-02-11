@@ -1,0 +1,32 @@
+.booking-wrapper-location , .booking-wrapper-custom-fields {
+    border: 1px solid #dddddd;
+    padding: 25px;
+    overflow: hidden;
+    margin-bottom: 25px;
+
+}
+
+.booking-add_location , .booking-save_location {
+    text-align: center;
+    margin-top: 5px !important;
+    width: 300px !important;
+    float: none !important;
+}
+
+
+ .btn_save_work_days{
+    text-align: center;
+    max-width: 600px!important;
+    float: none !important;
+    margin: 15px 0 0 10px !important;
+}
+
+.booking-wrapper-location h3{
+    font-size: 16px;
+}
+
+ .booking-location-all .pixad-form-control{
+     display: inline-block; 
+     width: 300px !important; 
+}
+

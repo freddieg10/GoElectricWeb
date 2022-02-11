@@ -1,0 +1,1250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-21 13:38+0000\n"
+"PO-Revision-Date: 2019-12-04 12:47+0000\n"
+"Last-Translator: info@templines.com\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: install.php:43 includes/backend/meta_boxes.php:560
+#: includes/widgets/widget_sidebar.php:493
+msgid "Automatic"
+msgstr "Automatic"
+
+#: install.php:44 includes/backend/meta_boxes.php:561
+#: includes/widgets/widget_sidebar.php:494
+msgid "Manual"
+msgstr "Manual"
+
+#: install.php:45 includes/backend/meta_boxes.php:562
+#: includes/widgets/widget_sidebar.php:495
+msgid "Semi-Automatic"
+msgstr "Semi-Automatic"
+
+#: install.php:46 includes/backend/meta_boxes.php:590
+#: includes/widgets/widget_sidebar.php:466
+msgid "Diesel"
+msgstr "Diesel"
+
+#: install.php:47 includes/backend/meta_boxes.php:591
+#: includes/widgets/widget_sidebar.php:468
+msgid "Electric"
+msgstr "Electric"
+
+#: install.php:48 includes/backend/meta_boxes.php:592
+#: includes/widgets/widget_sidebar.php:465
+msgid "Petrol"
+msgstr "Petrol"
+
+#: install.php:49 includes/backend/meta_boxes.php:593
+#: includes/widgets/widget_sidebar.php:467
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: install.php:50 includes/backend/meta_boxes.php:594
+#: includes/widgets/widget_sidebar.php:469
+msgid "Petrol+CNG"
+msgstr "Petrol+CNG"
+
+#: install.php:51 includes/backend/meta_boxes.php:595
+#: includes/widgets/widget_sidebar.php:470
+msgid "LPG"
+msgstr "LPG"
+
+#: install.php:52 includes/backend/meta_boxes.php:609
+#: includes/widgets/widget_sidebar.php:570
+msgid "New"
+msgstr "New"
+
+#: install.php:53 includes/backend/meta_boxes.php:610
+#: includes/widgets/widget_sidebar.php:571
+msgid "Used"
+msgstr "Used"
+
+#: install.php:54 includes/backend/meta_boxes.php:611
+#: includes/widgets/widget_sidebar.php:572
+msgid "Driver"
+msgstr "Driver"
+
+#: install.php:55 includes/backend/meta_boxes.php:612
+#: includes/widgets/widget_sidebar.php:573
+msgid "Non driver"
+msgstr "Без водителя"
+
+#: install.php:56 includes/backend/meta_boxes.php:614
+#: includes/widgets/widget_sidebar.php:575
+msgid "Barnfind"
+msgstr "Barnfind"
+
+#: install.php:57 includes/backend/meta_boxes.php:613
+#: includes/widgets/widget_sidebar.php:574
+msgid "Projectcar"
+msgstr "Projectcar"
+
+#: install.php:58 includes/backend/meta_boxes.php:733
+msgid "In stock"
+msgstr "В наличии"
+
+#: install.php:59 includes/backend/meta_boxes.php:734
+msgid "Expected"
+msgstr "Ожидается"
+
+#: install.php:60 includes/backend/meta_boxes.php:735
+msgid "Out of stock"
+msgstr "Из stock"
+
+#: install.php:61 includes/backend/meta_boxes.php:644
+msgid "Front"
+msgstr "Front"
+
+#: install.php:62 includes/backend/meta_boxes.php:645
+msgid "Rear"
+msgstr "Rear"
+
+#: install.php:63 includes/backend/meta_boxes.php:748
+msgid "Fixed"
+msgstr "Fixed"
+
+#: install.php:64 includes/backend/meta_boxes.php:749
+msgid "Negotiable"
+msgstr "Negotiable"
+
+#: install.php:65 includes/backend/settings.php:264
+#: includes/backend/meta_boxes.php:762
+msgid "No"
+msgstr "No"
+
+#: install.php:66 includes/backend/settings.php:265
+#: includes/backend/meta_boxes.php:763
+msgid "Yes"
+msgstr "Yes"
+
+#: install.php:67
+msgid "Featured"
+msgstr "Featured"
+
+#: install.php:68
+msgid "Sold"
+msgstr "Sold"
+
+#: install.php:69 includes/backend/meta_boxes.php:628
+#: includes/widgets/widget_sidebar.php:599
+msgid "Rent"
+msgstr "Rent"
+
+#: install.php:70 includes/backend/meta_boxes.php:629
+#: includes/widgets/widget_sidebar.php:600
+msgid "Experience"
+msgstr "Experience"
+
+#: install.php:71 includes/backend/meta_boxes.php:705
+msgid "Request"
+msgstr "Request"
+
+#: install.php:72 includes/backend/meta_boxes.php:706
+msgid "Reserved"
+msgstr "Reserved"
+
+#: install.php:73 includes/backend/meta_boxes.php:707
+msgid "POA"
+msgstr "POA"
+
+#: install.php:74 includes/backend/meta_boxes.php:660
+#: includes/backend/meta_boxes.php:684
+msgid "white"
+msgstr "white"
+
+#: install.php:75 includes/backend/meta_boxes.php:661
+#: includes/backend/meta_boxes.php:685
+msgid "silver"
+msgstr "silver"
+
+#: install.php:76 includes/backend/meta_boxes.php:662
+#: includes/backend/meta_boxes.php:686
+msgid "black"
+msgstr "black"
+
+#: install.php:77 includes/backend/meta_boxes.php:663
+#: includes/backend/meta_boxes.php:687
+msgid "grey"
+msgstr "grey"
+
+#: install.php:78 includes/backend/meta_boxes.php:664
+#: includes/backend/meta_boxes.php:688
+msgid "blue"
+msgstr "blue"
+
+#: install.php:79 includes/backend/meta_boxes.php:665
+#: includes/backend/meta_boxes.php:689
+msgid "red"
+msgstr "red"
+
+#: install.php:80 includes/backend/meta_boxes.php:666
+#: includes/backend/meta_boxes.php:690
+msgid "brown"
+msgstr "brown"
+
+#: install.php:81 includes/backend/meta_boxes.php:691
+msgid "beige"
+msgstr "beige"
+
+#: install.php:82 includes/backend/meta_boxes.php:667
+msgid "green"
+msgstr "green"
+
+#: install.php:83 includes/backend/meta_boxes.php:668
+msgid "yellow"
+msgstr "yellow"
+
+#: install.php:84 includes/backend/meta_boxes.php:669
+msgid "orange"
+msgstr "orange"
+
+#: install.php:85 includes/backend/meta_boxes.php:670
+msgid "purple"
+msgstr "purple"
+
+#: templates/single-pixad-autos.php:97
+msgid "Car Details"
+msgstr "Машина Подробности"
+
+#: templates/single-pixad-autos.php:101
+msgid "Car Equipment"
+msgstr "Оборудование"
+
+#: templates/single-pixad-autos.php:105
+msgid "Car Description"
+msgstr "Описание "
+
+#: templates/single-pixad-autos.php:109
+msgid "Contact Seller"
+msgstr "Связаться С Продавцом"
+
+#: templates/single-pixad-autos.php:122
+msgid "Make:"
+msgstr "Брэнд:"
+
+#: templates/single-pixad-autos.php:130
+msgid "Model:"
+msgstr "Модель:"
+
+#: templates/single-pixad-autos.php:138
+msgid "Made Year:"
+msgstr "Год:"
+
+#: templates/single-pixad-autos.php:146
+msgid "Mileage:"
+msgstr "Пробег:"
+
+#: templates/single-pixad-autos.php:154
+msgid "VIN:"
+msgstr "VIN:"
+
+#: templates/single-pixad-autos.php:162
+msgid "Version:"
+msgstr "Версия:"
+
+#: templates/single-pixad-autos.php:170
+msgid "Fuel:"
+msgstr "Топливо"
+
+#: templates/single-pixad-autos.php:178
+msgid "Engine (cm3):"
+msgstr "Двигателя (см3):"
+
+#: templates/single-pixad-autos.php:186
+msgid "Horsepower (hp):"
+msgstr "Лошадиная сила (HP):"
+
+#: templates/single-pixad-autos.php:194
+msgid "Transmission:"
+msgstr "Коробки передач:"
+
+#: templates/single-pixad-autos.php:202
+msgid "Doors:"
+msgstr "Ворота"
+
+#: templates/single-pixad-autos.php:210
+msgid "Condition:"
+msgstr "Состояние:"
+
+#: templates/single-pixad-autos.php:218
+msgid "Drive:"
+msgstr "Диск:"
+
+#: templates/single-pixad-autos.php:219
+msgid " drive"
+msgstr " диск"
+
+#: templates/single-pixad-autos.php:226
+msgid "Seats:"
+msgstr "Сидения:"
+
+#: templates/single-pixad-autos.php:234
+msgid "Color:"
+msgstr "Цвет:"
+
+#: templates/single-pixad-autos.php:242
+msgid "Price:"
+msgstr "Цена:"
+
+#: templates/single-pixad-autos.php:250
+msgid "Price Type:"
+msgstr "Тип Цены:"
+
+#: templates/single-pixad-autos.php:258
+msgid "Warranty:"
+msgstr "Гарантия:"
+
+#: templates/single-pixad-autos.php:293
+msgid "First Name"
+msgstr "Имя"
+
+#: templates/single-pixad-autos.php:300
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: templates/single-pixad-autos.php:307
+msgid "E-mail"
+msgstr "По электронной почте"
+
+#: templates/single-pixad-autos.php:309
+msgid "show email"
+msgstr "показать адрес"
+
+#: templates/single-pixad-autos.php:317
+msgid "Phone"
+msgstr "Телефон"
+
+#: templates/single-pixad-autos.php:319
+msgid "show phone"
+msgstr "показать телефон"
+
+#: templates/single-pixad-autos.php:327
+msgid "Company"
+msgstr "Company"
+
+#: templates/single-pixad-autos.php:334
+msgid "Country"
+msgstr "Country"
+
+#: templates/single-pixad-autos.php:341
+msgid "State"
+msgstr "State"
+
+#: templates/single-pixad-autos.php:348
+msgid "Town"
+msgstr "Town"
+
+#: templates/autos_listing.php:87 templates/autos_listing.php:104
+msgid ":"
+msgstr ":"
+
+#: templates/autos_listing.php:120
+msgid "hp"
+msgstr "hp"
+
+#: templates/autos_listing.php:122
+msgid "cm3"
+msgstr "cm3"
+
+#: templates/autos_listing.php:125
+msgid "doors"
+msgstr "doors"
+
+#: includes/functions_backend.php:71 includes/functions_backend.php:72
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/functions_backend.php:150
+msgid "Autos Settings"
+msgstr "Видимые Параметры"
+
+#: includes/functions_backend.php:155 includes/backend/settings.php:72
+#: includes/backend/settings.php:80
+msgid "General Settings"
+msgstr "Общие Настройки"
+
+#: includes/functions_backend.php:160 includes/backend/currencies.php:146
+msgid "Currencies"
+msgstr "Валюта"
+
+#: includes/functions_backend.php:164
+msgid "Auto Fields"
+msgstr "Авто Поля"
+
+#: classes/class.pixad-autos.php:161 classes/class.pixad-autos.php:186
+#: includes/widgets/widget_sidebar.php:67
+#: includes/widgets/widget_sidebar.php:124
+#: includes/widgets/widget_sidebar.php:127
+msgid "All Models"
+msgstr "Все Модели"
+
+#: classes/class.pixad-autos.php:245
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr "<I класс=\"Альфа-угол-левый Альфа\"></я>"
+
+#: classes/class.pixad-autos.php:246
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr "<I класс=\"Альфа Альфа-угол-правый\"></я>"
+
+#: classes/class.pixad-autos.php:247
+msgid "NEXT"
+msgstr "Далее"
+
+#: classes/class.pixad-autos.php:248
+msgid "PREV"
+msgstr "Назад"
+
+#: classes/class.pixad-autos.php:249 classes/class.pixad-autos.php:250
+msgid "..."
+msgstr "..."
+
+#: classes/class.pixad-autos.php:301
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Страница %CURRENT_PAGE% из %TOTAL_PAGES%"
+
+#: classes/class.pixad-settings.php:186
+msgid "Operation failed."
+msgstr "Не удалось выполнить операцию."
+
+#: includes/backend/settings.php:85
+msgid "Site currency"
+msgstr "Валюта сайта"
+
+#: includes/backend/settings.php:86
+msgid "Set site currency."
+msgstr "Набор валюте сайта."
+
+#: includes/backend/settings.php:105
+msgid "List style"
+msgstr "Стиль каталога"
+
+#: includes/backend/settings.php:106
+msgid "Set list style  for car listing page"
+msgstr "Список стиль на страницы автомобиль список"
+
+#: includes/backend/settings.php:119
+msgid "Thousand Separator"
+msgstr "Разделитель тысячных"
+
+#: includes/backend/settings.php:120
+msgid "This sets the thousand separator of displayed prices and mileage."
+msgstr "Это устанавливает разделитель тысяч отображаемые цены и пробег."
+
+#: includes/backend/settings.php:129
+msgid "Decimal Separator"
+msgstr "Разделитель сотых"
+
+#: includes/backend/settings.php:130
+msgid "This sets the decimal separator of displayed prices."
+msgstr "Установка десятичного разделителя отображаемого ценам."
+
+#: includes/backend/settings.php:139
+msgid "Number of Decimals"
+msgstr "Количество десятичных знаков"
+
+#: includes/backend/settings.php:140
+msgid "This sets the number of decimal points shown in displayed prices."
+msgstr "Установка числа десятичных знаков, отображаемых цен."
+
+#: includes/backend/settings.php:148
+msgid "My cars page"
+msgstr "Страница мои авто"
+
+#: includes/backend/settings.php:149
+msgid "Set page for users cars"
+msgstr "Набор страницы для пользователей автомобилей"
+
+#: includes/backend/settings.php:153 includes/backend/settings.php:167
+#: includes/backend/settings.php:181 includes/backend/settings.php:195
+msgid "Select page"
+msgstr "Выбрать страницу"
+
+#: includes/backend/settings.php:162
+msgid "Car listing page"
+msgstr "Страница листинга"
+
+#: includes/backend/settings.php:163
+msgid "Set page for car listing"
+msgstr "Набор страницы для автомобиля листинг"
+
+#: includes/backend/settings.php:176
+msgid "Sell your car page"
+msgstr "Страница добавления авто"
+
+#: includes/backend/settings.php:177
+msgid "Set page for selling cars"
+msgstr "Набор страницы для продажи автомобилей"
+
+#: includes/backend/settings.php:190
+msgid "Update car page"
+msgstr "Страница обновления авто"
+
+#: includes/backend/settings.php:191
+msgid "Set page for update car"
+msgstr "Набор страницы для автомобиля обновление"
+
+#: includes/backend/settings.php:205
+msgid "Autos order"
+msgstr "Показывать в каталоге"
+
+#: includes/backend/settings.php:206
+msgid "Default order."
+msgstr "По умолчанию порядок."
+
+#: includes/backend/settings.php:211
+msgid "Last Added"
+msgstr "Последние добавленные"
+
+#: includes/backend/settings.php:212
+msgid "First Added"
+msgstr "Первые добавленные"
+
+#: includes/backend/settings.php:213
+msgid "Cheap First"
+msgstr "Дешевые"
+
+#: includes/backend/settings.php:214
+msgid "Expensive First"
+msgstr "Дорогие"
+
+#: includes/backend/settings.php:215
+msgid "Make A-Z"
+msgstr "А-Я"
+
+#: includes/backend/settings.php:216
+msgid "Make Z-A"
+msgstr "Я-А"
+
+#: includes/backend/settings.php:217
+msgid "Old First"
+msgstr "Старые первые"
+
+#: includes/backend/settings.php:218
+msgid "New First"
+msgstr "Новые первые"
+
+#: includes/backend/settings.php:225
+msgid "Text After Price"
+msgstr "Текст после цены"
+
+#: includes/backend/settings.php:226
+msgid "Set the text after all prices."
+msgstr "Набор текста после все цены."
+
+#: includes/backend/settings.php:235
+msgid "Slider max price"
+msgstr "Максимальная цена ползунка"
+
+#: includes/backend/settings.php:236
+msgid ""
+"Set max price for price slider. If max price in slider set to this position, "
+"will be shown all autos more expensive than min price."
+msgstr ""
+"Максимальная цена на слайдер цене. Если максимальная цена в ползунок "
+"установлен в эту позицию, будут показаны все автомобили дороже, чем "
+"минимальная цена."
+
+#: includes/backend/settings.php:245
+msgid "Autos per page"
+msgstr "Авто на странице"
+
+#: includes/backend/settings.php:246
+msgid "Set how many posts will be shown per page."
+msgstr "Установить, сколько сообщений будет отображаться на странице."
+
+#: includes/backend/settings.php:251 includes/widgets/widget_sidebar.php:382
+msgid "All"
+msgstr "Все"
+
+#: includes/backend/settings.php:258
+msgid "Show disabled equipment"
+msgstr "Показать экипировку"
+
+#: includes/backend/settings.php:259
+msgid ""
+"If Yes, enabled and disabled equipment will be displayed on single auto page."
+msgstr ""
+"Если да, включен и оборудование для инвалидов будут отображаться на одном "
+"авто страница."
+
+#: includes/backend/currencies.php:77 includes/backend/currencies.php:132
+msgid "Edit Currency"
+msgstr "Редактирование Валюты"
+
+#: includes/backend/currencies.php:79
+msgid "New Currency"
+msgstr "Новая Валюта"
+
+#: includes/backend/currencies.php:101
+msgid "Currency"
+msgstr "Валюта"
+
+#: includes/backend/currencies.php:117
+msgid "Currency Position"
+msgstr "Валютная Позиция"
+
+#: includes/backend/currencies.php:121 includes/backend/currencies.php:176
+#: includes/backend/meta_boxes.php:133
+msgid "Left"
+msgstr "Влево"
+
+#: includes/backend/currencies.php:122 includes/backend/currencies.php:180
+#: includes/backend/meta_boxes.php:132
+msgid "Right"
+msgstr "Право"
+
+#: includes/backend/currencies.php:123 includes/backend/currencies.php:184
+msgid "Left with space"
+msgstr "Влево с пространством"
+
+#: includes/backend/currencies.php:124 includes/backend/currencies.php:188
+msgid "Right with space"
+msgstr "Прямо с пространства"
+
+#: includes/backend/currencies.php:132
+msgid "Add Currency"
+msgstr "Укажите Валюту"
+
+#: includes/backend/currencies.php:148
+msgid "Add New"
+msgstr "Добавить Новую"
+
+#: includes/backend/currencies.php:155
+msgid "Name"
+msgstr "Имя"
+
+#: includes/backend/currencies.php:156
+msgid "ISO"
+msgstr "ИСО"
+
+#: includes/backend/currencies.php:157
+msgid "Symbol"
+msgstr "Символ"
+
+#: includes/backend/currencies.php:158
+msgid "Symbol Position"
+msgstr "Символ Позиции"
+
+#: includes/backend/currencies.php:159
+msgid "Actions"
+msgstr "Действие"
+
+#: includes/backend/currencies.php:195
+msgid "Edit"
+msgstr "Править"
+
+#: includes/backend/currencies.php:196 includes/backend/meta_boxes.php:279
+msgid "Delete"
+msgstr "Удалять"
+
+#: includes/backend/currencies.php:202
+msgid "Please add currency."
+msgstr "Пожалуйста, добавьте валюту."
+
+#: includes/backend/meta_boxes.php:20
+msgid "Auto Details"
+msgstr "Детали"
+
+#: includes/backend/meta_boxes.php:21
+msgid "Gallery"
+msgstr "Галерея"
+
+#: includes/backend/meta_boxes.php:22
+msgid "Gallery \"Promo Images\" "
+msgstr "Галерея \"Промо Изображения\" "
+
+#: includes/backend/meta_boxes.php:23
+msgid "YouTube Video URL"
+msgstr "YouTube ссылка на видео"
+
+#: includes/backend/meta_boxes.php:25
+msgid "Auto Label"
+msgstr "Авто Метка"
+
+#: includes/backend/meta_boxes.php:26
+msgid "Auto Layout"
+msgstr "Макет Авто"
+
+#: includes/backend/meta_boxes.php:28
+msgid "Contact Info"
+msgstr "Контакты"
+
+#: includes/backend/meta_boxes.php:29
+msgid "Custom Tab 1"
+msgstr "Пользовательская Вкладка 1"
+
+#: includes/backend/meta_boxes.php:30
+msgid "Custom Tab 2"
+msgstr "Пользовательская Вкладка 2"
+
+#: includes/backend/meta_boxes.php:31
+msgid "Custom Tab 3"
+msgstr "Пользовательская Вкладка 3"
+
+#: includes/backend/meta_boxes.php:32
+msgid "Banner"
+msgstr "Инфо баннер"
+
+#: includes/backend/meta_boxes.php:130
+msgid "Sidebar Position"
+msgstr "Позиция сайдбара"
+
+#: includes/backend/meta_boxes.php:139
+msgid "Specifications"
+msgstr "Технические характеристики"
+
+#: includes/backend/meta_boxes.php:141 includes/backend/meta_boxes.php:150
+#: includes/backend/meta_boxes.php:159 includes/backend/meta_boxes.php:168
+#: includes/backend/meta_boxes.php:180 includes/backend/meta_boxes.php:189
+#: includes/backend/meta_boxes.php:199 includes/backend/meta_boxes.php:209
+msgid "Show"
+msgstr "Показать"
+
+#: includes/backend/meta_boxes.php:142 includes/backend/meta_boxes.php:151
+#: includes/backend/meta_boxes.php:160 includes/backend/meta_boxes.php:169
+#: includes/backend/meta_boxes.php:181 includes/backend/meta_boxes.php:190
+#: includes/backend/meta_boxes.php:198 includes/backend/meta_boxes.php:208
+msgid "Hide"
+msgstr "Скрывать"
+
+#: includes/backend/meta_boxes.php:148
+msgid "Related Cars"
+msgstr "Похожие авто"
+
+#: includes/backend/meta_boxes.php:157
+msgid "Share This"
+msgstr "Поделиться "
+
+#: includes/backend/meta_boxes.php:166
+msgid "Vehicle Description Tab"
+msgstr "Вкладка Описания"
+
+#: includes/backend/meta_boxes.php:178
+msgid "Features Tab"
+msgstr "Вкладка Характеристики"
+
+#: includes/backend/meta_boxes.php:187
+msgid "Contacts Tab"
+msgstr "Вкладка Контакты"
+
+#: includes/backend/meta_boxes.php:196
+msgid "Financing Calculator"
+msgstr "Калькулятор"
+
+#: includes/backend/meta_boxes.php:206
+msgid "Booking Button"
+msgstr "Бронирование Кнопка"
+
+#: includes/backend/meta_boxes.php:255
+msgid "Add Images to Product Gallery"
+msgstr "Добавить изображения в галерею товара"
+
+#: includes/backend/meta_boxes.php:257
+msgid "Add to gallery"
+msgstr "Добавить в галерею"
+
+#: includes/backend/meta_boxes.php:279
+msgid "Delete video"
+msgstr "Удалить видео"
+
+#: includes/backend/meta_boxes.php:360 includes/backend/meta_boxes.php:385
+#: includes/backend/meta_boxes.php:410
+msgid "Tab Title"
+msgstr "Название вкладки"
+
+#: includes/backend/meta_boxes.php:445
+msgid "Banner Modal Form"
+msgstr "Выбрать контактную форму"
+
+#: includes/backend/meta_boxes.php:472
+msgid "Select Form Style"
+msgstr " Выбрать Стиль"
+
+#: includes/backend/meta_boxes.php:533
+msgid "Auto Version"
+msgstr "Версия авто"
+
+#: includes/backend/meta_boxes.php:544
+msgid "Made Year"
+msgstr "Год"
+
+#: includes/backend/meta_boxes.php:555
+msgid "Transmission"
+msgstr "Трансмиссия"
+
+#: includes/backend/meta_boxes.php:559 includes/backend/meta_boxes.php:575
+#: includes/backend/meta_boxes.php:589 includes/backend/meta_boxes.php:608
+#: includes/backend/meta_boxes.php:627 includes/backend/meta_boxes.php:643
+#: includes/backend/meta_boxes.php:911
+msgid "-- Please Select --"
+msgstr "-- Пожалуйста, Выберите --"
+
+#: includes/backend/meta_boxes.php:571
+msgid "Doors"
+msgstr "Двери"
+
+#: includes/backend/meta_boxes.php:585 includes/widgets/widget_sidebar.php:647
+msgid "Fuel Type"
+msgstr "Тип Топлива"
+
+#: includes/backend/meta_boxes.php:604
+msgid "Auto Condition"
+msgstr "Состояние Автомобиля"
+
+#: includes/backend/meta_boxes.php:623
+msgid "Auto Purpose"
+msgstr "Auto Назначение"
+
+#: includes/backend/meta_boxes.php:630 includes/widgets/widget_sidebar.php:601
+msgid "Sell"
+msgstr "Продажи"
+
+#: includes/backend/meta_boxes.php:639
+msgid "Auto Drive"
+msgstr "Диски"
+
+#: includes/backend/meta_boxes.php:646
+msgid "4x4"
+msgstr "4х4"
+
+#: includes/backend/meta_boxes.php:655
+msgid "Color"
+msgstr "Цвет"
+
+#: includes/backend/meta_boxes.php:679
+msgid "Interior Color"
+msgstr "Цвет салона"
+
+#: includes/backend/meta_boxes.php:700
+msgid "Price"
+msgstr "Цена"
+
+#: includes/backend/meta_boxes.php:717
+msgid "Sale Price"
+msgstr "Цена со скидкой"
+
+#: includes/backend/meta_boxes.php:729
+msgid "Stock status"
+msgstr "На складе"
+
+#: includes/backend/meta_boxes.php:744
+msgid "Price Type"
+msgstr "Тип Цены"
+
+#: includes/backend/meta_boxes.php:758
+msgid "Warranty"
+msgstr "Гарантия"
+
+#: includes/backend/meta_boxes.php:793
+msgid "Mileage"
+msgstr "Пробег"
+
+#: includes/backend/meta_boxes.php:805
+msgid "VIN"
+msgstr "VIN"
+
+#: includes/backend/meta_boxes.php:816
+msgid "Engine, cm3"
+msgstr "Двигатель, см3"
+
+#: includes/backend/meta_boxes.php:828
+msgid "Horsepower, hp"
+msgstr "Мощность, л. с."
+
+#: includes/backend/meta_boxes.php:840
+msgid "Seating Capacity"
+msgstr "Вместимость"
+
+#: includes/backend/meta_boxes.php:852
+msgid "Seller first name"
+msgstr "Имя продавца"
+
+#: includes/backend/meta_boxes.php:863
+msgid "Seller last name"
+msgstr "Продавец фамилия"
+
+#: includes/backend/meta_boxes.php:874
+msgid "Seller email"
+msgstr "Электронной почты продавца"
+
+#: includes/backend/meta_boxes.php:885
+msgid "Seller phone"
+msgstr "Продавец телефон"
+
+#: includes/backend/meta_boxes.php:896
+msgid "Seller company"
+msgstr "Продавец компания"
+
+#: includes/backend/meta_boxes.php:907
+msgid "Seller country"
+msgstr "Продавец страны"
+
+#: includes/backend/meta_boxes.php:921
+msgid "Seller state"
+msgstr "Продавец государство"
+
+#: includes/backend/meta_boxes.php:932
+msgid "Seller town"
+msgstr "Продавец города"
+
+#: includes/backend/meta_boxes.php:943
+msgid "Seller location label"
+msgstr "Продавец расположение меток"
+
+#: includes/backend/meta_boxes.php:954
+msgid "Seller location latitude"
+msgstr "Продавец широту"
+
+#: includes/backend/meta_boxes.php:965
+msgid "Seller location longitude"
+msgstr "Продавец местоположения долготы"
+
+#: includes/backend/post_taxonomy_type.php:1280
+#: includes/backend/post_taxonomy_type.php:1281
+#: includes/backend/post_taxonomy_type.php:1282
+#: includes/backend/post_taxonomy_type.php:1283
+msgid "Autos"
+msgstr "Автомобили"
+
+#: includes/backend/post_taxonomy_type.php:1284
+#: includes/backend/post_taxonomy_type.php:1285
+#: includes/backend/post_taxonomy_type.php:1286
+msgid "New Auto"
+msgstr "Добавить новый"
+
+#: includes/backend/post_taxonomy_type.php:1287
+msgid "Edit Auto"
+msgstr "Редактировать Авто"
+
+#: includes/backend/post_taxonomy_type.php:1288
+msgid "View Auto"
+msgstr "Вид Авто"
+
+#: includes/backend/post_taxonomy_type.php:1289
+msgid "All Autos"
+msgstr "Все Автомобили"
+
+#: includes/backend/post_taxonomy_type.php:1290
+msgid "Search Autos"
+msgstr "Поиск Автомобилей"
+
+#: includes/backend/post_taxonomy_type.php:1291
+msgid "Parent Autos:"
+msgstr "Родитель:"
+
+#: includes/backend/post_taxonomy_type.php:1292
+msgid "No autos found."
+msgstr "Не авто найден."
+
+#: includes/backend/post_taxonomy_type.php:1293
+msgid "No autos found in Trash."
+msgstr "Не авто нашли в мусорке."
+
+#: includes/backend/post_taxonomy_type.php:1365
+msgid "Model"
+msgstr "Модель"
+
+#: includes/backend/post_taxonomy_type.php:1366
+#: includes/backend/post_taxonomy_type.php:1375
+msgid "Models"
+msgstr "Модели"
+
+#: includes/backend/post_taxonomy_type.php:1367
+msgid "Search Auto Models"
+msgstr "Поиск Авто Модели"
+
+#: includes/backend/post_taxonomy_type.php:1368
+msgid "All Auto Models"
+msgstr "Все Модели Авто"
+
+#: includes/backend/post_taxonomy_type.php:1369
+msgid "Parent Auto Model"
+msgstr "Родитель "
+
+#: includes/backend/post_taxonomy_type.php:1370
+msgid "Parent Auto Model:"
+msgstr "Родитель :"
+
+#: includes/backend/post_taxonomy_type.php:1371
+msgid "Edit Auto Model"
+msgstr "Редактировать Авто Модели"
+
+#: includes/backend/post_taxonomy_type.php:1372
+msgid "Update Auto Model"
+msgstr "Автоматическое Обновление Модели"
+
+#: includes/backend/post_taxonomy_type.php:1373
+msgid "Add Auto Model"
+msgstr "Добавить Модель"
+
+#: includes/backend/post_taxonomy_type.php:1374
+msgid "New Auto Model Name"
+msgstr "Новая Автоматическая Модель Имя"
+
+#: includes/backend/post_taxonomy_type.php:1392
+msgid "Body Style"
+msgstr "Кузов"
+
+#: includes/backend/post_taxonomy_type.php:1393
+#: includes/backend/post_taxonomy_type.php:1402
+msgid "Body Styles"
+msgstr "Тип кузова"
+
+#: includes/backend/post_taxonomy_type.php:1394
+msgid "Search Body Style"
+msgstr "Поиск Тип Кузова"
+
+#: includes/backend/post_taxonomy_type.php:1395
+msgid "All Body Styles"
+msgstr "Все Стили Тела"
+
+#: includes/backend/post_taxonomy_type.php:1396
+msgid "Parent Body Style"
+msgstr "Родитель"
+
+#: includes/backend/post_taxonomy_type.php:1397
+msgid "Parent Body Style:"
+msgstr "Родитель:"
+
+#: includes/backend/post_taxonomy_type.php:1398
+msgid "Edit Body Style"
+msgstr "Редактировать Тип Кузова"
+
+#: includes/backend/post_taxonomy_type.php:1399
+msgid "Update Body Style"
+msgstr "Обновление Стиль Корпуса"
+
+#: includes/backend/post_taxonomy_type.php:1400
+msgid "Add Car Body Style"
+msgstr "Добавить Тип Автомобиля"
+
+#: includes/backend/post_taxonomy_type.php:1401
+msgid "New Body Style Name"
+msgstr "Новое Тело Имя Типа"
+
+#: includes/backend/post_taxonomy_type.php:1419
+msgid "Equipment"
+msgstr "Оборудование"
+
+#: includes/backend/post_taxonomy_type.php:1420
+#: includes/backend/post_taxonomy_type.php:1429
+msgid "Equipments"
+msgstr "Оборудование"
+
+#: includes/backend/post_taxonomy_type.php:1421
+msgid "Search Equipment"
+msgstr "Поиск Оборудования"
+
+#: includes/backend/post_taxonomy_type.php:1422
+msgid "All Equipments"
+msgstr "Оборудование"
+
+#: includes/backend/post_taxonomy_type.php:1423
+msgid "Parent Equipment"
+msgstr "Родитель"
+
+#: includes/backend/post_taxonomy_type.php:1424
+msgid "Parent Eqipment:"
+msgstr "Родитель:"
+
+#: includes/backend/post_taxonomy_type.php:1425
+msgid "Edit Equipment"
+msgstr "Редактировать Оборудование"
+
+#: includes/backend/post_taxonomy_type.php:1426
+msgid "Update Equipment"
+msgstr "Обновление Оборудования"
+
+#: includes/backend/post_taxonomy_type.php:1427
+msgid "Add Car Equipment"
+msgstr "Добавить Оборудования"
+
+#: includes/backend/post_taxonomy_type.php:1428
+msgid "New Equipment Name"
+msgstr "Новое Название Техники"
+
+#: includes/backend/post_taxonomy_type.php:1452
+#: includes/backend/post_taxonomy_type.php:1481
+#: includes/backend/post_taxonomy_type.php:1560
+#: includes/backend/post_taxonomy_type.php:1565
+#: includes/backend/post_taxonomy_type.php:1646
+#: includes/backend/post_taxonomy_type.php:1651
+msgid "Thumbnail"
+msgstr "Картинка"
+
+#: includes/backend/post_taxonomy_type.php:1510
+#: includes/backend/post_taxonomy_type.php:1556
+#: includes/backend/post_taxonomy_type.php:1594
+#: includes/backend/post_taxonomy_type.php:1642
+#: includes/backend/post_taxonomy_type.php:1669
+#: includes/backend/post_taxonomy_type.php:1714
+#: includes/backend/post_taxonomy_type.php:1726
+msgid "Icon class"
+msgstr "Класс иконки"
+
+#: includes/backend/post_taxonomy_type.php:1552
+#: includes/backend/post_taxonomy_type.php:1591
+#: includes/backend/post_taxonomy_type.php:1638
+#: includes/backend/post_taxonomy_type.php:1666
+#: includes/backend/post_taxonomy_type.php:1710
+#: includes/backend/post_taxonomy_type.php:1723
+msgid "Icon"
+msgstr "Иконка"
+
+#: includes/backend/post_taxonomy_type.php:1571
+#: includes/backend/post_taxonomy_type.php:1576
+msgid "Thumbnail for filter"
+msgstr "Картинка для фильтра"
+
+#: includes/backend/post_taxonomy_type.php:1597
+#: includes/backend/post_taxonomy_type.php:1672
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/widgets/widget_sidebar.php:15
+msgid "Auto: By Make"
+msgstr "Автомобилей: По Маркам"
+
+#: includes/widgets/widget_sidebar.php:15
+msgid "Filter autos by make."
+msgstr "Фильтр автомобили по маркам."
+
+#: includes/widgets/widget_sidebar.php:66
+#: includes/widgets/widget_sidebar.php:86
+msgid "All Makes"
+msgstr "Все производители"
+
+#: includes/widgets/widget_sidebar.php:189
+msgid "By Make"
+msgstr "Производителю"
+
+#: includes/widgets/widget_sidebar.php:194
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/widgets/widget_sidebar.php:198
+msgid "Filter Type:"
+msgstr "Тип Фильтра:"
+
+#: includes/widgets/widget_sidebar.php:200
+msgid "List of makes"
+msgstr "Список делает"
+
+#: includes/widgets/widget_sidebar.php:201
+msgid "Makes and models selects"
+msgstr "Марок и моделей выбирает"
+
+#: includes/widgets/widget_sidebar.php:231
+msgid "Auto: Filter"
+msgstr "Автомобиль: Фильтр"
+
+#: includes/widgets/widget_sidebar.php:231
+msgid "Filter autos by price, body type, fuel, transmission."
+msgstr "Фильтр авто по цене, типу кузова, топлива, трансмиссии."
+
+#: includes/widgets/widget_sidebar.php:462
+#: includes/widgets/widget_sidebar.php:464
+msgid "All Fuel Types"
+msgstr "Все Виды Топлива"
+
+#: includes/widgets/widget_sidebar.php:490
+#: includes/widgets/widget_sidebar.php:492
+msgid "All Transmissions"
+msgstr "Все Передачи"
+
+#: includes/widgets/widget_sidebar.php:567
+#: includes/widgets/widget_sidebar.php:569
+msgid "All Conditions"
+msgstr "Условия"
+
+#: includes/widgets/widget_sidebar.php:596
+#: includes/widgets/widget_sidebar.php:598
+msgid "All purposes"
+msgstr "Все назначения"
+
+#: includes/widgets/widget_sidebar.php:643
+msgid "Price Range"
+msgstr "По цене"
+
+#: includes/widgets/widget_sidebar.php:645
+msgid "Vehicle Body Type"
+msgstr "Тип Кузова"
+
+#: includes/widgets/widget_sidebar.php:649
+msgid "Mileage Range"
+msgstr "Пробег Спектр"
+
+#: includes/widgets/widget_sidebar.php:651
+msgid "Year Range"
+msgstr "Год"
+
+#: includes/widgets/widget_sidebar.php:653
+msgid "Transmission Range"
+msgstr "Коробка Передач"
+
+#: includes/widgets/widget_sidebar.php:655
+msgid "Engine Volume"
+msgstr "Объем Двигателя"
+
+#: includes/widgets/widget_sidebar.php:657
+msgid "Condition"
+msgstr "Состояние"
+
+#: includes/widgets/widget_sidebar.php:660
+msgid "Purpose"
+msgstr "Назначения"
+
+#: includes/widgets/widget_sidebar.php:663
+msgid "Booking Time"
+msgstr "Дата бронирования"
+
+#: includes/widgets/widget_sidebar.php:664
+msgid "Filter Vehicles"
+msgstr "Фильтр Корабли"
+
+#: includes/widgets/widget_sidebar.php:884
+msgid "Auto: Account"
+msgstr "Авто: Счета"
+
+#: includes/widgets/widget_sidebar.php:884
+msgid "Show users links."
+msgstr "Показывать пользователям ссылки."
+
+#: includes/widgets/widget_sidebar.php:914
+msgid "You don't have any cars"
+msgstr "Вы не'т есть какие-либо автомобили"
+
+#: includes/widgets/widget_sidebar.php:930
+msgid "Add your car"
+msgstr "Добавить автомобиль"
+
+#: includes/widgets/widget_sidebar.php:940
+msgid "My Acount"
+msgstr "Очень Плохо"
+
+#. Plugin Name of the plugin/theme
+msgid "PixAutoDeal"
+msgstr "PixAutoDeal"
+
+#. Description of the plugin/theme
+msgid "Auto Deal Options for Autozone Theme"
+msgstr "Авто интернет-варианты на тему пожарный"
+
+#. Author of the plugin/theme
+msgid "Templines"
+msgstr "Templines"
+
+#. Author URI of the plugin/theme
+msgid "templines.com"
+msgstr "templines.com"

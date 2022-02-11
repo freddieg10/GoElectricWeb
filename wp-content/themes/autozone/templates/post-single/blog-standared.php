@@ -1,0 +1,18 @@
+
+<?php
+/**
+ * This template is for displaying part of blog.
+ *
+ * @package Pix-Theme
+ * @since 1.0
+ */
+
+
+?>
+
+<div class="entry-media">
+	<?php if ( has_post_thumbnail() ):?>
+		<?php the_post_thumbnail('full', array( 'class' => 'img-responsive' )); ?>
+	<?php endif; ?>
+</div>
+

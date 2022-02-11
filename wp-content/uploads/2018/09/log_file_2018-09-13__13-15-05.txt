@@ -1,0 +1,91 @@
+
+---Downloaded files---
+The import files for: AutoZone Theme were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://dev.templines.org/dev3
+Data file = /var/www/dev/data/www/dev.templines.org/dev3/wp-content/themes/autozone/library/demo-files/content.xml
+Widget file = /var/www/dev/data/www/dev.templines.org/dev3/wp-content/uploads/2018/09/demo-widgets-import-file_2018-09-13__13-15-05.json
+Customizer file = /var/www/dev/data/www/dev.templines.org/dev3/wp-content/uploads/2018/09/demo-customizer-import-file_2018-09-13__13-15-05.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+WP Default Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Archives - No Title - Widget already exists
+MailChimp Sign-Up Form - Newsletter - Imported
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Search - Search - Imported
+Auto: By Make - By Makes &amp; Models - Imported
+Auto: Filter - No Title - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+Archives - No Title - Imported
+MailChimp Sign-Up Form - Newsletter - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+
+Auto sidebar : 
+
+Search - Search - Imported
+Auto: By Make - By Makes &amp; Models - Imported
+Auto: Filter - No Title - Imported
+
+Shop sidebar : 
+
+Products by Rating - Top Rated Products - Imported
+Active Product Filters - Active Filters - Imported
+Filter Products by Attribute - Filter by - Imported
+Filter Products by Rating - Average Rating - Imported
+Product Tag Cloud - Product Tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

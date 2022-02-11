@@ -1,0 +1,75 @@
+/*
+ JPro Cars Shortcodes
+ @since 0.3
+ @version 0.1
+*/
+ div.pixad-shortcode.owl-carousel {
+	margin-bottom: 30px;
+ }
+
+ div.owl-carousel img {
+	border-right: 4px solid #ced6db;
+	border-bottom: 3px solid #ced6db;
+ }
+ 
+ span.pixad-shortcode.auto-price {
+	font-size: 16px;
+	background-color: #F5AE2D;
+	padding: 5px 10px;
+	position: absolute;
+	color: #fff;
+	top: 0;
+	left: 0;
+ }
+ 
+ span.pixad-shortcode.auto-title {
+	font-size: 16px;
+	background: rgba( 245, 174, 45, 0.8 );
+	padding: 5px 10px;
+	position: absolute;
+	color: #fff;
+	bottom: 0;
+	width: 100%;
+ }
+ 
+ span.pixad-shortcode.auto-title a {
+	text-decoration: none;
+	color: #fff;
+ }
+ 
+/*
+ pixad_cars_search Shortcode
+*/
+.pixad-advanced-search-wrapper {
+	margin: 0 auto;
+	margin-bottom: 30px;
+	background-image: url('../img/search_bg.pixadg');
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.pixad-advanced-search-container {
+	padding: 15px;
+}
+
+.pixad-advanced-search-panel {
+	background: rgba( 255, 255, 255, .4 );
+	padding: 15px;
+}
+
+.pixad-advanced-search-panel label {
+	font-size: 14px;
+	font-weight: 100;
+}
+
+.pixad-advanced-search-panel label.pixad-price,
+.pixad-advanced-search-panel label.pixad-mileage {
+	font-weight: bold;
+	position: absolute;
+	text-align: center;
+	color: #414141;
+	width: 85%;
+}

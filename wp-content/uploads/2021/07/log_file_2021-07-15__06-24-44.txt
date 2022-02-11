@@ -1,0 +1,35 @@
+
+---Archivos descargados---
+Los archivos de importación para Dealer Demo ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 600
+Información de archivos:
+URL del sitio = https://rsweb.com.do/web/goelectric
+Archivo de datos = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-content-import-file_2021-07-15__06-24-44.xml
+Archivo de widget = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-15__06-24-44.json
+Archivo del personalizador = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-customizer-import-file_2021-07-15__06-24-44.dat
+Archivos de Redux:
+ ¡no definido!
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+

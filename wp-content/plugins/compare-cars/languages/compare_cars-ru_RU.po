@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-22 21:42+0000\n"
+"PO-Revision-Date: 2019-12-02 13:29+0000\n"
+"Last-Translator: admin <noreply@templines.com>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: compare-cars.php:60
+msgid "You have already added 3 cars"
+msgstr "Вы уже добавили 3 машины"
+
+#: compare-cars.php:61
+msgid " Added for comparison"
+msgstr " Добавлена для сравнения"
+
+#: compare-cars.php:62
+msgid " Removed from comparison"
+msgstr " Удален из сравнения"
+
+#: compare-cars.php:140
+msgid "Compare page"
+msgstr "Сравнить страницы"
+
+#: compare-cars.php:140
+msgctxt "menu"
+msgid "Compare page"
+msgstr "Страница сравнения"
+
+#: compare-cars.php:164
+msgid "Compare settings"
+msgstr "настройки сравнения"
+
+#: compare-cars.php:165
+msgid "Select compare page"
+msgstr "Выберите страницу  для сравнения"
+
+#: compare-cars.php:166
+msgid "Not use favorite"
+msgstr "Не использовать любимый"
+
+#: compare-cars.php:167
+msgid "Hide Compare icon"
+msgstr "Скрыть значок сравнения"
+
+#: compare-cars.php:168
+msgid "Resize"
+msgstr "Размер"
+
+#: compare-cars.php:179
+msgid "Select page"
+msgstr "Выбрать страницу"
+
+#: compare-cars.php:239
+msgid "VIEW ALL CARS FOR COMPARE"
+msgstr "ПОСМОТРЕТЬ ВСЕ"
+
+#: compare-cars.php:303
+msgid "Add To Compare"
+msgstr "Добавить в сравнению"
+
+#: compare-cars.php:308
+msgid "Remove From Compare"
+msgstr "Удалить Из Сравнения"
+
+#: compare-cars.php:352 compare-cars.php:522
+msgid "Compare Page"
+msgstr "Страница сравнения"
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:395
+msgid "Check for updates"
+msgstr "Проверить обновления"
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:432
+msgid "View details"
+msgstr "Вид информаци"
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:455
+#, php-format
+msgid "More information about %s"
+msgstr "Дополнительная информация о %с"
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:548
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr "Плагин %S до дата."
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:550
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr "Новая версия плагин %S доступен."
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:552
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr "Не удалось определить, если обновления доступны для %S."
+
+#: plugin-update-checker/Puc/v4p4/Plugin/UpdateChecker.php:558
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr "Неизвестный статус проверки обновления \"%ы\""
+
+#: plugin-update-checker/Puc/v4p4/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr "Список изменений доступен."
+
+#: templates/compare-cars.php:205
+msgid "drive"
+msgstr "диск"
+
+#: templates/compare-cars.php:281
+msgid "Remove"
+msgstr "Убрать"
+
+#: templates/compare-cars.php:362
+msgid "Stock status:"
+msgstr "На складе:"
+
+#: templates/compare-cars.php:369
+msgid "Made Year:"
+msgstr "Год:"
+
+#: templates/compare-cars.php:376
+msgid "Mileage:"
+msgstr "Пробег:"
+
+#: templates/compare-cars.php:383
+msgid "VIN:"
+msgstr "Винс:"
+
+#: templates/compare-cars.php:390
+msgid "Version:"
+msgstr "Версия:"
+
+#: templates/compare-cars.php:397
+msgid "Fuel:"
+msgstr "Топливо"
+
+#: templates/compare-cars.php:404
+msgid "Engine (cm3):"
+msgstr "Двигателя (см3):"
+
+#: templates/compare-cars.php:411
+msgid "Horsepower (hp):"
+msgstr "Лошадиная сила (HP):"
+
+#: templates/compare-cars.php:418
+msgid "Transmission:"
+msgstr "Коробки передач:"
+
+#: templates/compare-cars.php:425
+msgid "Doors:"
+msgstr "Ворота"
+
+#: templates/compare-cars.php:432
+msgid "Condition:"
+msgstr "Состояние:"
+
+#: templates/compare-cars.php:439
+msgid "Drive:"
+msgstr "Диск:"
+
+#: templates/compare-cars.php:446
+msgid "Seats:"
+msgstr "Сидения:"
+
+#: templates/compare-cars.php:453
+msgid "Color:"
+msgstr "Цвет:"
+
+#: templates/compare-cars.php:460
+msgid "Interior Color:"
+msgstr "Цвет:"
+
+#: templates/compare-cars.php:467
+msgid "Price Type:"
+msgstr "Тип Цены:"
+
+#: templates/compare-cars.php:474
+msgid "Warranty:"
+msgstr "Гарантия:"
+
+#: thumbmaker/class.Kama_Make_Thumb.php:336
+msgid ""
+"Folder where thumbs will be created not exists. Create it manually: \"s%\""
+msgstr ""
+"Папка, где пальцы будут созданы не существует. Создать его вручную: \"ы%\""
+
+#. Plugin Name of the plugin/theme
+msgid "Compare cars"
+msgstr "Сравнить автомобили"
+
+#. Description of the plugin/theme
+msgid "Compare functionality for Autozone"
+msgstr "Плагин сравнения для автозоны"
+
+#. Author of the plugin/theme
+msgid "Templines"
+msgstr "Templines"

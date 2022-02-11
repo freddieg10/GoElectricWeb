@@ -1,0 +1,141 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Dealer Locator\n"
+"POT-Creation-Date: 2019-08-07 14:41+0300\n"
+"PO-Revision-Date: 2019-08-07 14:41+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: dealer-locator.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: dealer-locator.php:84
+msgid "Save"
+msgstr ""
+
+#: dealer-locator.php:85
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+#: dealer-locator.php:88
+msgid "Dealer Locator"
+msgstr ""
+
+#: dealer-locator.php:90
+msgid "Settings Google maps"
+msgstr ""
+
+#: dealer-locator.php:91
+msgid "Show map"
+msgstr ""
+
+#: dealer-locator.php:92
+msgid "Google maps api key"
+msgstr ""
+
+#: dealer-locator.php:93
+msgid "Zoom"
+msgstr ""
+
+#: dealer-locator.php:94
+msgid "Latitude"
+msgstr ""
+
+#: dealer-locator.php:95
+msgid "Longitude"
+msgstr ""
+
+#: dealer-locator.php:96
+msgid "Icon"
+msgstr ""
+
+#: dealer-locator.php:97
+msgid "Icon width"
+msgstr ""
+
+#: dealer-locator.php:98
+msgid "Icon height"
+msgstr ""
+
+#: dealer-locator.php:99
+msgid "Claster"
+msgstr ""
+
+#: dealer-locator.php:100
+msgid "Claster width"
+msgstr ""
+
+#: dealer-locator.php:101
+msgid "Claster height"
+msgstr ""
+
+#: dealer-locator.php:102
+msgid "Styles"
+msgstr ""
+
+#: dealer-locator.php:103
+msgid "Сlaster text size"
+msgstr ""
+
+#: dealer-locator.php:104
+msgid "Select icon"
+msgstr ""
+
+#: dealer-locator.php:105
+msgid ""
+"Map styles, json data ( create map style on https://mapstyle.withgoogle.com )"
+msgstr ""
+
+#: dealer-locator.php:108
+msgid "Location"
+msgstr ""
+
+#: dealer-locator.php:109
+msgid "Email"
+msgstr ""
+
+#: dealer-locator.php:110
+msgid "Phone"
+msgstr ""
+
+#: dealer-locator.php:111
+msgid "Country"
+msgstr ""
+
+#: dealer-locator.php:112
+msgid "Сompany"
+msgstr ""
+
+#: dealer-locator.php:113
+msgid "State"
+msgstr ""
+
+#: dealer-locator.php:114
+msgid "Town"
+msgstr ""
+
+#: dealer-locator.php:115
+msgid "Where are you?"
+msgstr ""
+
+#: dealer-locator.php:577
+msgid "View Car"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Templines"
+msgstr ""

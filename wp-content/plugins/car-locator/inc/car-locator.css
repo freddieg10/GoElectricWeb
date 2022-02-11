@@ -1,0 +1,92 @@
+.clt-info__buttons {
+    padding: 5px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    bottom: 0;
+}
+.clt-info__logo{
+	display: block;
+	position: relative;
+}
+.clt-info__logo h3 {
+    color: #333;
+    font-size: 14px!important;
+    text-align: center;
+    padding: 0 0 10px 0;
+    margin: 0;
+    font-weight: 600;
+}
+
+.clt-info__buttons .btn{
+    transform: skewX(0deg);
+    margin: 0 5px;
+}
+
+#car-locator-map  .gm-ui-hover-effect {
+    top: -2px !important;
+    right: -3px !important;
+}
+
+.gm-style .gm-style-iw-c {
+    border-radius: 0;
+}
+
+#car-locator-map {
+	height: 500px;
+	height: -webkit-fill-available;
+}
+
+
+
+#clt-maps .slider-grid__inner:hover .slider-grid__name {
+    background-color: rgba(0, 0, 0, .7);
+    transition: all .3s;
+}
+
+#clt-maps .slider-grid__inner_mod-a .slider-grid__name {
+    padding: 9px 9px;
+    font-size: 11px;
+    vertical-align: bottom;
+    margin-right: 0;
+}
+
+#clt-maps .slider-grid__inner_mod-a .slider-grid__price {
+    display: inline-block;
+    margin-left:0;
+    padding: 9px;
+    font-size: 11px;
+    vertical-align: bottom;
+    font-weight: 600;
+}
+
+
+#clt-maps .slider-grid__inner_mod-a img{
+        transition: all .3s;
+}
+#clt-maps .slider-grid__inner_mod-a:hover img{
+    opacity: 0.9;
+}
+
+#clt-maps .slider-grid__inner {
+    margin-bottom: 0;
+}
+
+.headermaphide{
+    transition: all .3s;
+    margin-top: -300px !important;
+}
+
+html  .page-template-autos .top-bar{
+    display: none !important;
+}
+
+
+@media (max-width: 768px) {
+    
+    #clt-maps {
+    max-height: 350px;
+   }
+    
+}

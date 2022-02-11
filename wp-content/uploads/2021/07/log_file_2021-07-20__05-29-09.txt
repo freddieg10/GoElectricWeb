@@ -1,0 +1,114 @@
+
+---Archivos descargados---
+Los archivos de importación para Dealer Demo ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 600
+Información de archivos:
+URL del sitio = https://rsweb.com.do/web/goelectric
+Archivo de datos = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-content-import-file_2021-07-20__05-29-09.xml
+Archivo de widget = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-widgets-import-file_2021-07-20__05-29-09.json
+Archivo del personalizador = /home/ormxgpmm/public_html/web/goelectric/wp-content/uploads/2021/07/demo-customizer-import-file_2021-07-20__05-29-09.dat
+Archivos de Redux:
+ ¡no definido!
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Fallo al importar action-group woocommerce-db-updates
+[WARNING] Fallo al importar action-group wc_update_product_lookup_tables
+
+
+---Importando los widgets---
+WP Default Sidebar : 
+
+Buscar - Sin título - El widget ya existe
+Entradas recientes - Sin título - El widget ya existe
+Comentarios recientes - Sin título - El widget ya existe
+Archivos - Sin título - El widget ya existe
+Categorías - Sin título - El widget ya existe
+Meta - Sin título - El widget ya existe
+Formulario de suscripción de MailChimp - Newsletter - Importado
+Buscar - Search - Importado
+Auto: By Make - By Makes &amp; Models - Importado
+Auto: Filter - Sin título - Importado
+
+Blog Sidebar : 
+
+Buscar - Sin título - Importado
+Categorías - Sin título - Importado
+Archivos - Sin título - Importado
+Formulario de suscripción de MailChimp - Newsletter - Importado
+Entradas recientes - Sin título - Importado
+Comentarios recientes - Sin título - Importado
+
+Auto sidebar : 
+
+Auto: Account - Sin título - Importado
+Auto: By Make - By Makes &amp; Models - Importado
+Auto: Filter - Sin título - Importado
+
+Shop sidebar : 
+
+Productos por lista de valoraciones - Top Rated Products - Importado
+Filtros de productos activos - Active Filters - Importado
+Filtrar productos por atributo - Filter by - Importado
+Filtrar productos por puntuación - Average Rating - Importado
+Nube de etiquetas de productos - Product Tags - Importado
+
+
+
+---Importación de los ajustes del personalizador---
+¡Importación de los ajustes del personalizador finalizado!
+
+---ocdi/after_import---
+
+			<div id="setting-error-settings_updated" class="updated settings-error">
+				<p><strong>Settings saved!</strong></p>
+			</div>
+			<meta http-equiv="refresh" content="0" url="/web/goelectric/wp-admin/admin-ajax.php">
+				
+			<div id="setting-error-settings_updated" class="updated settings-error">
+				<p><strong>Settings saved!</strong></p>
+			</div>
+			<meta http-equiv="refresh" content="0" url="/web/goelectric/wp-admin/admin-ajax.php">
+				

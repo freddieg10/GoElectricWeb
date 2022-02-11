@@ -1,0 +1,196 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@media (max-width: 768px) {
+  
+html .header .navbar-brand {
+   
+    margin-left: -30px !important;
+    margin-top: -20px !important;
+    
+} 
+  a.navbar-brand.scroll {
+    
+}
+} 
+  
+/* logo en mobiles */
+
+@media (max-width: 768px) {
+
+img.normal-logo {
+    max-width: 280px !important;
+}
+ 
+}
+
+/*Hader title */
+
+.section-bg .bg-inner {
+   	padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+/* header login */
+
+span.fl-dropdown-login {
+    display: none;
+}
+
+
+/* Texto header*/
+
+.block-title {
+    margin-bottom: -10px !important;
+}
+
+/* mision y vision */
+
+.ui-subtitle-block_mod-a {
+    letter-spacing: 0 !important;
+	transform:none !important; 
+}
+
+.card__label, .link, .ui-subtitle-block_mod-a, .ui-subtitle-block_mod-b, .ui-title-block, .ui-title-inner, .ui-title-page, input[type=submit] {
+    text-transform: none !important;
+}
+
+/* Formulario de contacto */
+
+.km_cf7-submit-btn-txt {
+  position: unset !important;
+}
+
+span.km_cf7_label-content {
+    display: none !important;
+}
+
+.km_cf7-submit-btn-txt.km_cf7-btn-txt-r {
+  display:none !important;
+}
+
+.km_cf7-submit-btn-txt.km_cf7-btn-txt-h {
+  
+  display:none !important;
+}
+
+.wpcf7-form p {
+    margin-bottom: 0px !important;
+}
+
+
+.wpcf7 p {
+    margin-bottom: 0px !important;
+}
+
+.wpcf7 label {
+    font-size: 16px !important;
+}
+
+
+
+@media (min-width: 900px) {
+  
+.km_cf7-input-container {
+    width: 155% !important;
+}
+ 
+/* boton de comparar */
+  
+ .header-navibox-compare {
+    display: none;
+}
+  
+ /* Quitamos filtro en linado de vehiculos */
+  
+  div#pix-sorting {
+    DISPLAY: NONE;
+}
+  
+/* precio */
+  
+  .widget-post1__price {
+    display: none;} 
+
+    
+    /* titulo */
+    
+    
+.section-title-box {
+    padding-bottom: 0px !important;
+}
+    
+   /* cambios en el brecum*/
+  
+  .woocommerce-breadcrumb a {
+    color: #5ebdd4 !important;
+}
+  
+  span.current {
+    color: #5ebdd4 !important;
+}
+  
+  .breadcrumb.woocommerce-breadcrumb {
+    color: #5EBDD3 !important;
+}
+  nav.woocommerce-breadcrumb {
+    color: #5ebdd4 }
+      
+      
+  /* color de fondo */
+  
+  body {
+    
+    background: #f5f5f5 !important;
+}
+  
+  /* footer*/
+  
+  .bg_inner.border-section-top.border-section-top_mod-b {
+    display: none !important;
+}
+  
+  section.section_mod-h.section-bg.section-bg_second {
+    display: none !important;
+}
+
+section.section_mod-h.section-bg.section-bg_second {
+    display: none !important;
+}
+
+.footer__wrap-btn {
+  display: none !important;
+}
+  
+  .footer {
+    padding-bottom: 0px;
+    text-align: center;
+    padding-top: 0px;
+}
+  
+  .copyright {
+    margin-top: 0px;
+}
+  
+  .copyright {
+    background-color: #5ebdd4;
+    color: #ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px }
+      
+   
+  
+  /* BOTONES */
+.tmpl-list-footer {
+    display: none !important;
+}
+  
+  /* Breacaub */
+  
+ nav.woocommerce-breadcrumb {
+    display: none;
+}
+  
+  /* Cambios de SLIDER */
+  
+</style>
+<!-- end Simple Custom CSS and JS -->
