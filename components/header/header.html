@@ -1,41 +1,49 @@
-<link
-  href="/components/header/header.css"
-  rel="stylesheet"
-  type="text/css"
-/>
+<link href="/components/header/header.css" rel="stylesheet" type="text/css" />
 
-<header class="p-3 bg-dark text-white header">
-    <div class="container">
-      <div
-        class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start"
-      >
-        <a
-          href="/"
-          class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none"
-        >
-          <svg
-            class="bi me-2"
-            width="40"
-            height="32"
-            role="img"
-            aria-label="Bootstrap"
-          >
-            <use xlink:href="#bootstrap"></use>
-          </svg>
-        </a>
-
-        <ul
-          class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0"
-        >
-          <li><a href="#" class="nav-link px-2 text-secondary">Home</a></li>
-          <li><a href="#" class="nav-link px-2 text-white">Page</a></li>
-        </ul>
-        <div class="text-end">
-          <button type="button" class="btn btn-outline-light me-2">
-            Button
-          </button>
-          <button type="button" class="btn btn-warning">Button</button>
-        </div>
+<header class="header">
+  <div class="header_container">
+    <div class="logo">
+      <img src="/images/logos/logo-h-w.png" alt="logo-h-w.png" />
+    </div>
+    <div class="header_middle">
+      <div class="pages">
+        <div class="page" id="home_nav_button">Inicio</div>
+        <div class="page">Page</div>
+        <div class="page">Page</div>
+        <div class="page">Page</div>
       </div>
     </div>
-  </header>
+    <div class="header_right">
+      <div class="item_container">
+        <div class="icon">
+          <img src="/images/icons/location-svgrepo-com.svg" alt="location" />
+        </div>
+        <div class="item_text">Location label</div>
+      </div>
+      <div class="item_container">
+        <div class="icon">
+          <img src="/images/icons/whatsapp-svgrepo-com.svg" alt="whatsapp" />
+        </div>
+        <div class="item_text">Contact label</div>
+      </div>
+    </div>
+  </div>
+  <div class="header_mobile">
+    <div class="mobile_icons_container">
+      <div class="icon">
+        <img src="/images/icons/phone-svgrepo-com.svg" alt="phone" />
+      </div>
+      <div class="icon">
+        <img src="/images/icons/whatsapp-svgrepo-com.svg" alt="whatsapp" />
+      </div>
+      <div class="icon">
+        <img src="/images/icons/location-svgrepo-com.svg" alt="location" />
+      </div>
+      <div class="icon">
+        <img src="/images/icons/hamburger-menu-svgrepo-com.svg" alt="hamburger" />
+      </div>
+    </div>
+  </div>
+</header>
+
+<script src="/components/header/header.js" type="text/javascript"></script>
