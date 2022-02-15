@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Go Electric</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <meta name="Description" content="Google description goes here" />
+  </head>
+  <body>
+    <!-- Styles -->
+    <link
+      href="plugins/bootstrap-5.0.2-dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link href="index.css" rel="stylesheet" />
+    <link href="variables.css" rel="stylesheet" />
+    <link
+      href="plugins/fontawesome-free-6.0.0-web/css/fontawesome.min.css"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Scripts -->
+    <script
+      src="plugins/bootstrap-5.0.2-dist/js/bootstrap.bundle.js"
+      type="text/javascript"
+    ></script>
+    <script
+      src="plugins/jquery/jquery-3.6.0.min.js"
+      type="text/javascript"
+    ></script>
+    <!-- Header -->
+    <script>
+      $(function () {
+        $("#header").load("components/header/header.html");
+      });
+    </script>
+    <div id="header"></div>
+    <!-- Main content routing -->
+    <script>
+      $(function () {
+        const location = window.location.pathname;
+        switch (location.toLowerCase()) {
+          default:
+            $("#content").load("/404.html");
+            break;
+
+          case "/":
+          case "/index.html":
+          case "/index":
+            $("#content").load("/views/home/home.html");
+            break;
+        }
+      });
+    </script>
+    <div id="content"></div>
+    <!-- Footer -->
+    <script>
+      $(function () {
+        $("#footer").load("/components/footer/footer.html");
+      });
+    </script>
+    <div id="footer"></div>
+    <script type="module">
+      // Import the functions you need from the SDKs you need
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.6/firebase-app.js";
+      import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.6/firebase-analytics.js";
+      // TODO: Add SDKs for Firebase products that you want to use
+      // https://firebase.google.com/docs/web/setup#available-libraries
+
+      // Your web app's Firebase configuration
+      // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+      const firebaseConfig = {
+        apiKey: "AIzaSyAWMLaWE9m6dRXrmji0Plwv-5LVj0ysL60",
+        authDomain: "go-electric-341101.firebaseapp.com",
+        projectId: "go-electric-341101",
+        storageBucket: "go-electric-341101.appspot.com",
+        messagingSenderId: "770533872469",
+        appId: "1:770533872469:web:8cbc1042ae77d4bdc915dc",
+        measurementId: "G-0XX5HVY09L",
+      };
+
+      // Initialize Firebase
+      const app = initializeApp(firebaseConfig);
+      const analytics = getAnalytics(app);
+    </script>
+  </body>
+</html>
